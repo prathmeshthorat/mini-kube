@@ -35,3 +35,37 @@ out/
 
 ### VS Code ###
 .vscode/
+/lib/jackson-annotations-2.18.1.jar
+/lib/jackson-core-2.18.1.jar
+/lib/jackson-databind-2.18.1.jar
+/lib/jackson-datatype-jdk8-2.18.1.jar
+/lib/jackson-datatype-jsr310-2.18.1.jar
+/lib/jackson-module-parameter-names-2.18.1.jar
+/lib/jakarta.annotation-api-2.1.1.jar
+/lib/jul-to-slf4j-2.0.16.jar
+/lib/log4j-api-2.24.1.jar
+/lib/log4j-to-slf4j-2.24.1.jar
+/lib/logback-classic-1.5.12.jar
+/lib/logback-core-1.5.12.jar
+/lib/micrometer-commons-1.14.0.jar
+/lib/micrometer-observation-1.14.0.jar
+/lib/slf4j-api-2.0.15.jar
+/lib/snakeyaml-2.3.jar
+/lib/spring-aop-6.2.0.jar
+/lib/spring-beans-6.2.0.jar
+/lib/spring-boot-3.4.0.jar
+/lib/spring-boot-autoconfigure-3.4.0.jar
+/lib/spring-boot-starter-3.4.0.jar
+/lib/spring-boot-starter-json-3.4.0.jar
+/lib/spring-boot-starter-logging-3.4.0.jar
+/lib/spring-boot-starter-tomcat-3.4.0.jar
+/lib/spring-boot-starter-web-3.4.0.jar
+/lib/spring-context-6.2.0.jar
+/lib/spring-core-6.2.0.jar
+/lib/spring-expression-6.2.0.jar
+/lib/spring-jcl-6.2.0.jar
+/lib/spring-web-6.2.0.jar
+/lib/spring-webmvc-6.2.0.jar
+/lib/tomcat-embed-core-10.1.33.jar
+/lib/tomcat-embed-el-10.1.33.jar
+/lib/tomcat-embed-websocket-10.1.33.jar
